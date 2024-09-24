@@ -231,3 +231,16 @@ main {
         margin: 10vh auto;
     }
 }
+
+.esquerda {
+    width: 5vw;
+    height: 4vh;
+    margin: 5vh auto;
+    
+}
+
+.direita {
+    width: 5vw;
+    height: 4vh;
+    margin: 5vh auto;
+}
